@@ -1,0 +1,9 @@
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\bin\Debug\DVLD_BuisnessL.dll
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\bin\Debug\DVLD_BuisnessL.pdb
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\bin\Debug\DVLD_DataAccessL.dll
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\bin\Debug\DVLD_DataAccessL.pdb
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\obj\Debug\DVLD_BuisnessL.csproj.AssemblyReference.cache
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\obj\Debug\DVLD_BuisnessL.csproj.CoreCompileInputs.cache
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\obj\Debug\DVLD_BuisnessL.dll
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\obj\Debug\DVLD_BuisnessL.pdb
+C:\Users\ATHEE\source\repos\DVLD_BuisnessL\obj\Debug\DVLD_Bui.0D1EBDE1.Up2Date
